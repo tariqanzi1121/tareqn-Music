@@ -1,6 +1,6 @@
 owner=521688630503276544
-prefix=D
-game=Dplay
+prefix=T
+game=Tplay
 stayinchannel=true
 songinstatus=false
-token=NTU4NTE5NzM4MTAwMjE5OTA0.D3YBmg.-B17fOuTP7_xZcnSBV47FewyjyU
+token=NTYwNzcxNTQ4NzY4NzYzOTA5.D34yug.nsRkHGiW66BVnqjL36hBWQfmbH4
